@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MP-8-JordanMurphy</string>
+    <string name="title_activity_pull">PullActivity</string>
+    <string name="title_activity_push">PushActivity</string>
 </resources>

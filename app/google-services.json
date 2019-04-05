@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "411643525230",
+    "firebase_url": "https://mp8-jordanmurphy.firebaseio.com",
+    "project_id": "mp8-jordanmurphy",
+    "storage_bucket": "mp8-jordanmurphy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411643525230:android:606909639764a445",
+        "android_client_info": {
+          "package_name": "com.example.mp_8_jordanmurphy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411643525230-gpajc5cngbls8nhauinf5uuinam3gb8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mp_8_jordanmurphy",
+            "certificate_hash": "5a75d6989b1e5200e487b169ea9adb546e8ca906"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwkBn9ZoTqQJGR8sc6khyff01b0I-82nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411643525230-gctub4d2it94altkiukfuoe6ensq0gf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
